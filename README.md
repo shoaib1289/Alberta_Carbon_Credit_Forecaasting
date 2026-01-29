@@ -70,7 +70,7 @@ Key steps:
 - Forecast evaluation using RMSE and residual diagnostics
 
 STL results indicate a strong trend component and weak seasonality, motivating
-a non-seasonal ARIMA model for interpretability and robustness.
+a non-seasonal SARIMA model for interpretability and robustness.
 
 ---
 
