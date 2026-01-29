@@ -69,8 +69,7 @@ Key steps:
 - ARIMA modeling with train/test validation
 - Forecast evaluation using RMSE and residual diagnostics
 
-STL results indicate a strong trend component and weak seasonality, motivating
-a non-seasonal SARIMA model for interpretability and robustness.
+STL results indicate a strong trend component and weak seasonality.
 
 ---
 
@@ -91,7 +90,7 @@ a non-seasonal SARIMA model for interpretability and robustness.
 ## Tools & Technologies
 - SQL (data cleaning and validation)
 - Python (Pandas, NumPy, Statsmodels, Matplotlib, Seaborn)
-- Time-series analysis (STL, ARIMA)
+- Time-series analysis (STL, SARIMAX)
 
 ---
 
